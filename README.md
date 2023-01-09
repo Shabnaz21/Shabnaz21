@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="1200" height="500" src="https://www.codecademy.com/resources/blog/content/images/2022/03/Programming-Lanugages-Names-Thumb.png">
-</p>
+![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 
 <h1 align="center">Hi There🙋‍♀️, I'm Shabnaz Shikder👩‍💻</h1>
 <p><strong>shabnaz608@gmail.com <br>
