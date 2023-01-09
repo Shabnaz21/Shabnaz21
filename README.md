@@ -1,14 +1,14 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 
 <h1 align="center">Hi There🙋‍♀️, I'm Shabnaz Shikder👩‍💻</h1>
-<p><strong>shabnaz608@gmail.com <br>
-Savar, Dhaka</strong></p>
-
+<p><strong>E-mail: shabnaz608@gmail.com<br>Baipail Masjid, Ashulia Thana,Savar, Dhaka-1344</strong></p>
 <h3> <strong>Objective!</strong></h3>
+<hr width="10%" />
 <p>As an SEO professional with a passion for coding and designing, I am skilled in driving traffic to websites through search engine optimization, as well as creating visually appealing and user-friendly websites. I am adept at using a range of SEO tools and techniques to improve the visibility and ranking of websites in search engine results pages. My strong analytical skills allow me to identify opportunities for improvement and implement strategies that drive results. I have developed my own unique skillset which, when combined with the highest level of proficiency in each respective field, makes me an ideal candidate.</p>
-<br>
+
+<h3><strong>Education</strong></h3>
+<hr width="10%" />
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=790b761184bda8e87ae8896abec32ced63b35704ebffe73a&rid=giphy.gif&ct=s"
-<h3 align="left"><Strong>Education</strong></h3>
 <p><strong>Bachelor of Pharmacy (B.Pharm)</strong> | 2020 <br>
 Gono Bishwabidyalay, Savar, Dhaka </p>
 
@@ -18,7 +18,8 @@ BEPZA Public School & College, Savar</p>
 <p><strong>Secondary School Certificate </strong>| 2014 <br>
 BEPZA Public School & College, Savar</p>
 
-<h3 align="left"><Strong>Skills:</strong></h3>
+<h3 align="left"><strong>Skills</strong></h3>
+<hr width="10%" />
 <p><strong>SEO:</strong> keyword research, on-page optimization, technical SEO, analytics, reporting<br><strong>Coding:</strong> HTML, CSS, Python<br>
 <strong>Design: </strong>Adobe Creative Suite (Photoshop, Illustrator)</p>
 <h3 align="left"><Strong>Connect with me:</strong></h3>
