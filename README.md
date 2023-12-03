@@ -1,4 +1,4 @@
-![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
+![MasterHead](https://i.ibb.co/G2tFqkH/1688739625547.jpg)
 
 <h1 align="center">Hi There🙋‍♀️, I'm Shabnaz Shikder👩‍💻</h1>
 <p><strong>E-mail: shabnaz608@gmail.com<br>Baipail Masjid, Ashulia Thana,Savar, Dhaka-1344</strong></p>
