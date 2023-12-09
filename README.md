@@ -29,7 +29,7 @@ Sport Capsule is a fashion website for top brands, fueling our own brand's launc
 
 <strong>2. Share Plate </strong>
 
-Share Plate is a Community Food Sharing Platform that aims to foster connection and support among communities through the sharing of food.
+Share Plate is a Community Food Sharing Platform that aims to foster connection and support<br/> among communities through the sharing of food.
 
 [Client Side](https://github.com/Shabnaz21/Community-Food-Sharing-Platform-Frontend) | [Sever Side](https://github.com/Shabnaz21/Community-Food-Sharing-Platform-Backend) | [Live Link](https://share-plate-1d8b2.web.app)
 
