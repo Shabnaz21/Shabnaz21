@@ -1,12 +1,14 @@
-![MasterHead](https://i.ibb.co/G2tFqkH/1688739625547.jpg)
+![MasterHead](.//GitHub%20cover.png)
 
-<h1 align="center">Hi There🙋‍♀️, I'm Shabnaz Shikder👩‍💻</h1>
 <p><strong>E-mail: shabnaz608@gmail.com<br>Baipail Masjid, Ashulia Thana,Savar, Dhaka-1344</strong></p>
-<h3> <strong>Objective!</strong></h3>
-<hr width="10%" />
-<p>As an SEO professional with a passion for coding and designing, I am skilled in driving traffic to websites through search engine optimization, as well as creating visually appealing and user-friendly websites. I am adept at using a range of SEO tools and techniques to improve the visibility and ranking of websites in search engine results pages. My strong analytical skills allow me to identify opportunities for improvement and implement strategies that drive results. I have developed my own unique skillset which, when combined with the highest level of proficiency in each respective field, makes me an ideal candidate.</p>
+<br/>
 
-<h3><strong>Education</strong></h3>
+## 🔍 <strong>Objective!</strong>
+<hr width="10%" />
+<p>As a Front-End Developer with expertise in Back-End development, I want to contribute to a dynamic team. I can build attractive and user-friendly websites with my strong HTML, CSS, and JavaScript foundation. My commitment to staying current with industry trends and technologies ensures innovative solutions. I am driven by the desire to enhance user experiences through seamless website functionality. My goal to develop my skills as a Front-End Developer and expand my knowledge in Back-End development as I pursue a rewarding career.</p>
+<br/>
+
+## 🎓 <strong>Education</strong>
 <hr width="10%" />
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=790b761184bda8e87ae8896abec32ced63b35704ebffe73a&rid=giphy.gif&ct=s"
 <p><strong>Bachelor of Pharmacy (B.Pharm)</strong> | 2020 <br>
@@ -17,19 +19,50 @@ BEPZA Public School & College, Savar</p>
 
 <p><strong>Secondary School Certificate </strong>| 2014 <br>
 BEPZA Public School & College, Savar</p>
+<br/>
 
-<h3 align="left"><strong>Skills</strong></h3>
+## 🚀 <strong>My Project's</strong>
 <hr width="10%" />
-<p><strong>SEO:</strong> keyword research, on-page optimization, technical SEO, analytics, reporting<br><strong>Coding:</strong> HTML, CSS, Python<br>
-<strong>Design: </strong>Adobe Creative Suite (Photoshop, Illustrator)</p>
-<h3 align="left"><Strong>Others Socials</strong></h3>
+<p> 
+
+### <strong>1. Sport Capsule </strong>
+
+Sport Capsule is a fashion website for top brands, fueling our own brand's launch with cutting-edge fashion and apparel designs.
+
+[Client Side](https://github.com/Shabnaz21/Sport-Capsule-FrontEnd) | [Sever Side](https://github.com/Shabnaz21/Sport-Capsule-Backend) | [Live Link](https://sport-capsule.web.app/)
+
+### <strong>2. Share Plate </strong>
+Share Plate is a Community Food Sharing Platform that aims to foster connection and support among communities through the sharing of food.
+
+[Client Side](https://github.com/Shabnaz21/Community-Food-Sharing-Platform-Frontend) | [Sever Side](https://github.com/Shabnaz21/Community-Food-Sharing-Platform-Backend) | [Live Link](https://share-plate-1d8b2.web.app)
+
+### <strong>3. NewVilla </strong>
+NewVilla is an online real estate platform where people can add and buy real estate properties.
+
+[Client Side](https://github.com/Shabnaz21/Real-estate-Platform-Client-Side) | [Sever Side](https://github.com/Shabnaz21/Real-estate-Platform-Server-Side) | [Live Link-1](https://newvilla-c8d31.firebaseapp.com) | [Live Link -2](https://newvilla.surge.sh)
+</p>
+<br/>
+
+## 🤝 <Strong>Get in Touch</strong>
 <hr width="10%" />
 <p align="left">
-<a href="https://linkedin.com/in/shabnaz-shikder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shabnaz-shikder" height="30" width="40" /></a><a href="https://fb.com/shabnaz.shikder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shabnaz.shikder" height="30" width="40" /></a>
-<a href="https://dribbble.com/sleekcred" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sleekcred" height="30" width="40" /></a>
-<a href="https://www.behance.net/shabnazshikder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shabnazshikder" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shabnaz-shikder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shabnaz-shikder" height="30" width="40" /></a><a href="https://twitter.com/shabnaz21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shabnazakter" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></p>
+<br />
 
+## 💻  <strong>My Tech Proficiency</strong>
+<hr width="10%" />
+<p align="center">
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react)](https://github.com/Shabnaz21)
+
+[![My Skills](https://skillicons.dev/icons?i=git,mongodb,firebase,nodejs,figma)](https://github.com/Shabnaz21)
+</p>
+<br/>
+
+## 📈 <strong>Current Stats</strong>
+<hr width="10%" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=%40Shabnaz21&theme=material-palenight&hide_border=true&border_radius=5)](https://github.com/Shabnaz21)
+
+<br/>
